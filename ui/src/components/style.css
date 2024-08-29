@@ -1,0 +1,11 @@
+.pointbar{
+    border:none;
+    margin-top: 10px;
+    padding-bottom: 20px;
+    transition: all .3s;
+    cursor: pointer;
+    font-weight: bold;
+}
+.pointbar:hover{
+    border-bottom: 2px solid rgb(5, 218, 1);
+}
